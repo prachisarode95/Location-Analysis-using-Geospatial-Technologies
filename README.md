@@ -51,7 +51,7 @@ I was able to use a GIS technology to find out a suitable apartment in Mumba
 ![SDB_Project_0001](https://user-images.githubusercontent.com/60979131/194350700-65ce4c6e-f07d-4f13-b4dc-039228f7d641.png)
 
 ## 🔗 Personal Links
-[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/prachi-sarode/home)
+[![portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/prachi-sarode/home)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-sarode-448439167/)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://prachisarode.medium.com/)
 [![Deepnote](https://img.shields.io/badge/deepnote-0000FF?style=for-the-badge&logo=deepnote&logoColor=white)](https://deepnote.com/workspace/prachisarode95-de0c-a8dc3e3f-ef29-4dd7-b19a-96c796b26281/private)
