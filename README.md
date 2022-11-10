@@ -53,9 +53,3 @@ I was able to use a GIS technology to find out a suitable apartment in Mumba
 ## 🔗 Personal Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-sarode-448439167/)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://prachisarode.medium.com/)
-
-
-
-## Acknowledgements
-
- - [Medium Blog by Aveek Das](https://towardsdatascience.com/analyzing-houses-for-rent-in-mumbai-using-qgis-and-postgis-functions-7383e4223d0d)
